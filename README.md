@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It is a simple tic-tac-toe web game based on React framework.
+After forking and cloning please include the necessary node modules in the directory.
 
 ## Available Scripts
 
